@@ -9,8 +9,8 @@ Mentee assigment from ibm advance AI @infinite learning course completion of bui
 
 ## Mentee Info 
 
-Name : Indra Jayadi
-Program : IBM Advance AI 
+- Name : Indra Jayadi
+- Program : IBM Advance AI 
 
 ## Tech Stack
 
