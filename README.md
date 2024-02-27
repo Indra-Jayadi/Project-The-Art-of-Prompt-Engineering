@@ -13,8 +13,8 @@ Mentee assigment from ibm advance AI @infinite learning course completion of bui
 - Program : IBM Advance AI 
 
 ## Tech Stack
-
-- python
+- Python
+- Jupyter Notebook
 
 ## Authors
 
